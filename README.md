@@ -1,4 +1,7 @@
-# Admission-Chatbot-using-Dialogflow 
+# Admission-Chatbot-using-Dialogflow  
+
+First kindly visit the ppt and pdf to know whats our project is all about and later read below given point on how to execute our project.
+
 •Below are the few steps by which you can execute our chatbot:
 
 (1) Kindly open the HTML file (given above, under the code).
