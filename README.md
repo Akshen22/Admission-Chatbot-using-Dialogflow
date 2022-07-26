@@ -24,9 +24,6 @@ First kindly visit the ppt and pdf to know whats our project is all about and la
 
 (6) For Facebook messenger chatbot: Make a fb page later visit developer facebook site.
 
-(7) We wont restrict ourselves just to this to know more explore dialogflow in deep, to get connected with me, visit @akshen_dhami on Instagram.
+(7) We just won't restrict ourselves just to this, explore dialogflow in deep to build various types of chatbots, to get connected with me: visit @akshen_dhami on Instagram.
 
 Thanks!
-
-
-
