@@ -1,5 +1,7 @@
 # Admission-Chatbot-using-Dialogflow  
 
+![How to take a screenshot on any Windows 10 computer in several different ways _ Business Insider India - Google Chrome 01-08-2022 10_06_41](https://user-images.githubusercontent.com/54845610/182073968-200f4668-5d05-4cac-a66c-b6591b65b756.png)
+
 First kindly visit the ppt and pdf to know whats our project is all about and later read below given point on how to execute our project.
 
 •Below are the few steps by which you can execute our chatbot:
@@ -27,3 +29,5 @@ First kindly visit the ppt and pdf to know whats our project is all about and la
 (7) We just won't restrict ourselves just to this, explore dialogflow in deep to build various types of chatbots, to get connected with me: visit @akshen_dhami on Instagram.
 
 Thanks!
+
+![How to take a screenshot on any Windows 10 computer in several different ways _ Business Insider India - Google Chrome 01-08-2022 10_09_59](https://user-images.githubusercontent.com/54845610/182074002-a0150a5a-86dc-45c4-86ee-4ad3f6f005df.png)
