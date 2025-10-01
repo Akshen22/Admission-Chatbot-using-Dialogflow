@@ -31,3 +31,5 @@ First kindly visit the ppt and pdf to know whats our project is all about and la
 Thanks!
 
 ![How to take a screenshot on any Windows 10 computer in several different ways _ Business Insider India - Google Chrome 01-08-2022 10_09_59](https://user-images.githubusercontent.com/54845610/182074002-a0150a5a-86dc-45c4-86ee-4ad3f6f005df.png)
+
+Contact: akshendhami@gmail.com, https://www.linkedin.com/in/akshen-dhami22
